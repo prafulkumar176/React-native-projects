@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604478222967",
+    "project_id": "pushnotifications-db7e0",
+    "storage_bucket": "pushnotifications-db7e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604478222967:android:4c78d764dfec0bd17ccc72",
+        "android_client_info": {
+          "package_name": "com.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604478222967-orqhoqi2vuq7fpvtqnfm5britcj05h4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1OwuXGjr12t72pSqbkiDIArZwVHMVJ0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604478222967-orqhoqi2vuq7fpvtqnfm5britcj05h4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604478222967-qjf5fmde4r7djr6gfnpsd4ca77v5vg8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.firebaseNotifications"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

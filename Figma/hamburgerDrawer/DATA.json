@@ -1,0 +1,31 @@
+{
+    "User" : [{
+        "image" : "../assests/Images/img1.png",
+        "id" : 1,
+        "HeadingName" : "Expecto Patronum",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod",
+        "btnText" : "Continue"
+    },
+    {
+        "image" : "../assests/Images/img2.png",
+        "id" : 2,
+        "HeadingName" : "We dont need bike",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod",
+        "btnText" : "Continue"
+    },
+    {
+        "image" : "../assests/Images/img3.png",
+        "id" : 3,
+        "HeadingName" : "Start your adventure",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod",
+        "btnText" : "Get Started"
+    },
+    {
+        "image" : "../assests/Images/img4.png",
+        "id" : 4,
+        "HeadingName" : "Welcome to Iqrv",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod",
+        "btnText" : "Login"
+    }
+]
+}

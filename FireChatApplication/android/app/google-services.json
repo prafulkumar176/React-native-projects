@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730513703295",
+    "project_id": "chatapplication-f46bc",
+    "storage_bucket": "chatapplication-f46bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730513703295:android:f17a840a4137a80204da4a",
+        "android_client_info": {
+          "package_name": "com.firechatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KVmeiEAa_WlJIpb-4r8mqEfBzUHKS3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
